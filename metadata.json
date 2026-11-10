@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Arcade",
+  "description": "Tarayıcı tabanlı, Türkçe ve İngilizce destekli, hızlanan borular ve zengin grafiklere sahip Flappy Bird oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
